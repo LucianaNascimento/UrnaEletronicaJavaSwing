@@ -5,10 +5,51 @@ App Java Swing Urna eletrônica com BD
 Telas:
 
 
+Tela inicial:
+
+![image](https://user-images.githubusercontent.com/85845319/137444492-7a4177d2-ce84-4e71-827b-767de52f6e50.png)
 
 A senha e usuaário do presidente da mesa para iniciar a eleição é "admin"
 
-A senha e usuaário do presidente da mesa para finalizar a eleição será "nimda".
+
+Tela de identificação do eleitor:
+
+![image](https://user-images.githubusercontent.com/85845319/137444729-dedcf921-f24f-4237-90e3-2607e6c319f7.png)
+
+
+Tela de identificação do eleitor com a busca pr titulo ou rg já feita:
+
+![image](https://user-images.githubusercontent.com/85845319/137444884-4e4a226a-8250-4fb3-ac54-8839163082d6.png)
+
+
+Tela votação (urna):
+
+![image](https://user-images.githubusercontent.com/85845319/137445015-1b6bd757-3592-4055-a605-ab847c1f10e4.png)
+
+
+Se o eleitor já votou opção de votar fica desabilitada:
+
+![image](https://user-images.githubusercontent.com/85845319/137445286-bbdbe5bf-5453-414e-9bfb-d904b83c893b.png)
+
+
+Tela Encerrar votação:
+
+![image](https://user-images.githubusercontent.com/85845319/137445504-bc8137e3-d785-4ac0-bc03-e84c0aa83f29.png)
+
+A senha do presidente da mesa para finalizar a eleição é "nimda".
+
+
+Tela de apuração:
+
+![image](https://user-images.githubusercontent.com/85845319/137445669-7168fda7-bf5c-41bc-8bfd-f3e2204b5bd2.png)
+
+
+O botão encerrar seção zera todos os votos.
+
+
+
+
+
 
 
 

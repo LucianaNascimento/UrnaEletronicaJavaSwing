@@ -19,7 +19,7 @@ Tela de identificação do eleitor:
 
 Tela de identificação do eleitor com a busca por titulo ou rg já feita:
 
-![image](https://user-images.githubusercontent.com/85845319/137446822-55b4cfa5-96d4-4969-b228-dad2c1d3b0cb.png)
+![image](https://user-images.githubusercontent.com/85845319/137447522-5db08f6a-cd21-4f2e-bcb9-1178d154eaa6.png)
 
 
 Tela votação (urna):
@@ -31,7 +31,8 @@ Tela votação (urna):
 Se o eleitor já votou opção de votar fica desabilitada:
 
 
-![image](https://user-images.githubusercontent.com/85845319/137446672-b7b61cac-d076-4313-8d29-78b4971241fc.png)
+![image](https://user-images.githubusercontent.com/85845319/137447849-422d6c75-e363-4d08-a583-64a1a1416ca7.png)
+
 
 
 

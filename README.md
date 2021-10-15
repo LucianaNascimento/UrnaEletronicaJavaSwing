@@ -17,7 +17,7 @@ Tela de identificação do eleitor:
 ![image](https://user-images.githubusercontent.com/85845319/137444729-dedcf921-f24f-4237-90e3-2607e6c319f7.png)
 
 
-Tela de identificação do eleitor com a busca pr titulo ou rg já feita:
+Tela de identificação do eleitor com a busca por titulo ou rg já feita:
 
 ![image](https://user-images.githubusercontent.com/85845319/137446822-55b4cfa5-96d4-4969-b228-dad2c1d3b0cb.png)
 
